@@ -1,0 +1,12 @@
+# Flutter / Dart
+build/
+.dart_tool/
+.pub-cache/
+.idea/
+.gradle/
+android/.gradle/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
